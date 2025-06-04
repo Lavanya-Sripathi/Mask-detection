@@ -30,7 +30,7 @@ This project applies deep learning to automatically identify whether individuals
 
 - `mask.ipynb` – Main training/testing notebook
 - `runs/` – Contains model results and trained weights(`mask.pt`) 
-- `images/` – Sample input images (optional)
+- `images/` – Sample input images 
 - `README.md` – Project documentation
 
 ---
