@@ -37,7 +37,7 @@ This project applies deep learning to automatically identify whether individuals
 
 ## 🧪 How to Use
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lavanya-Sripathi/Mask-detection/blob/main/mask.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lavanya-Sripathi/Mask-detection/blob/main/mask.ipynb)  
   👉 [Mask Detection GitHub Repository](https://github.com/Lavanya-Sripathi/Mask-detection)
 
 1. Clone the repository:
