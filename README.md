@@ -42,7 +42,7 @@ This project applies deep learning to automatically identify whether individuals
     git clone https://github.com/Lavanya-Sripathi/Mask-detection.git
    ```
 2. Run `mask.ipynb` in Google Colab or locally
-3. Upload your dataset or use the sample one
+3. Use the pre-trained mask.pt model file
 4. Train the YOLOv8 model
 5. Test it on new images or video
 
