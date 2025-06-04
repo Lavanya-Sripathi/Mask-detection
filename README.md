@@ -13,7 +13,7 @@ This project applies deep learning to automatically identify whether individuals
 - 📦 Model detects:
   - ✅ With Mask
   - ❌ Without Mask
-- 🔬 fast inference speed
+- 🔬 Fast inference speed
 
 ---
 
@@ -29,7 +29,7 @@ This project applies deep learning to automatically identify whether individuals
 ## 📁 Files in This Repo
 
 - `mask.ipynb` – Main training/testing notebook
-- `runs/` – Contains model results and trained weights
+- `runs/` – Contains model results and trained weights(`mask.pt`) 
 - `images/` – Sample input images (optional)
 - `README.md` – Project documentation
 
@@ -40,8 +40,7 @@ This project applies deep learning to automatically identify whether individuals
 1. Clone the repo or open in Colab:
     ```bash
     git clone https://github.com/Lavanya-Sripathi/Mask-detection.git
-
-    ```
+   ```
 2. Run `mask.ipynb` in Google Colab or locally
 3. Upload your dataset or use the sample one
 4. Train the YOLOv8 model
@@ -54,7 +53,7 @@ This project applies deep learning to automatically identify whether individuals
 
 | Input Image | Output |
 |-------------|--------|
-| 👤 Person without mask | ❌ Detected as "No Mask" |
+| 👤 Person without mask | ❌ Detected as "No Mask" |                  
 | 😷 Person with mask     | ✅ Detected as "Mask On" |
 
 ---
