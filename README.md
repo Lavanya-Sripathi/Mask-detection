@@ -63,8 +63,9 @@ This project applies deep learning to automatically identify whether individuals
 
 ## 🙋‍♀️ Author
 
-Made with ❤️ by **Lavanya Sripathi**  
-📬 *Aspiring AI engineer & creative tech enthusiast*
+Lavanya Sripathi
+
+Aspiring AI/ML Engineer | Passionate about Creative Technology & Innovative Learning Solutions
 
 
 
